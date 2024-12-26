@@ -1,0 +1,93 @@
+* {
+    font-family: "Montserrat", sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 47px 0 42px 179px;
+
+}
+
+.logo-image{
+    display: inline-block;
+    width: 534px;
+    height: 467px;
+    margin-left: 182px;
+    margin: 163px 0 0 123px;
+    
+}
+
+.link-header {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0.875px;
+    margin-right: 36px;
+    color:  rgba(23, 35, 61, 1);
+    height: 21px;
+    width: 83px;
+    height: 21px;
+
+}
+
+h1 {
+    
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 82px;
+    letter-spacing: 0.5961538553237915px;
+    text-align: left;
+    width: 582px;
+    color: (22, 26, 73, 1);
+    margin-bottom: 47px;
+    color: rgba(22, 26, 73, 1);
+    ;
+}
+
+p {
+    width: 493px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: black
+
+
+
+}    
+
+section {
+    display: inline-block;
+    margin-left: 84.2px;
+}
+
+.button-header {
+    
+    color: rgba(255, 255, 255, 1);
+    border: none;
+    width: 124px;
+    height: 51px;    
+    background: rgba(111, 191, 68, 1);
+    border: 1px solid rgba(76, 181, 56, 1);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 1px;
+    border-radius: 6px;
+    cursor: pointer;
+        
+}
+
+button {
+    margin-top: 55px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 1px;
+    color:  rgba(111, 191, 68, 1);
+    border: none;
+    background:transparent;
+
+}
