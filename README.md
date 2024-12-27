@@ -6,8 +6,8 @@
 <br>
 <h2>Tecnologias Utilizadas</h2>
 <br>
- - HTML
- - CSS
+ <p>- HTML</p>
+ <p>- CSS</p>
  <br>
  <br>
 
